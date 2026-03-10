@@ -62,7 +62,7 @@ Tenho 20 anos e sou de Brasília - Df. Atualmente, estou cursando Ciências da c
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" https://img.favpng.com/22/17/14/liferay-logo-computer-icons-clip-art-png-favpng-8TbP00MzBMjG45VKCDeYD4ff1.jpg
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
     align="left" 
