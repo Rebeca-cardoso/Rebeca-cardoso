@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Tenho 20 anos e sou de Brasília - Df. Atualmente, estou cursando Ciências da computação na Cruzeiro do sul (4° periodo). Sou apaixonada por tecnologia e trabalho no ramo desde 2021
+Tenho 20 anos e sou de Brasília - Df. Atualmente, estou cursando Ciências da computação na Cruzeiro do sul (6° semestre). Sou apaixonada por tecnologia e trabalho no ramo desde 2021
 
 ---
 
